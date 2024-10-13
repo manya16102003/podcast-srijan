@@ -2,6 +2,8 @@ import { ConvexError, v } from "convex/values";
 
 import { internalMutation, query } from "./_generated/server";
 
+
+//code for CRUD operation
 export const getUserById = query({
   args: { clerkId: v.string() },
   handler: async (ctx, args) => {
