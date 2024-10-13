@@ -1,3 +1,7 @@
+Podcast-Srijan that generates podcasts by converting user-provided text into speech using OpenAI services,
+with options to choose from various AI-generated voices.
+The application Enabled users to upload custom podcast thumbnails or use AI-generated ones, and share their podcasts with the
+community.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
