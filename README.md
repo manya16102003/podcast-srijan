@@ -1,3 +1,7 @@
+Podcast-Srijan that generates podcasts by converting user-provided text into speech using OpenAI services,
+with options to choose from various AI-generated voices.
+The application Enabled users to upload custom podcast thumbnails or use AI-generated ones, and share their podcasts with the
+community.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -19,6 +23,14 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Convex
+login into the convex 
+create a new project 
+run the following command in the terminal
+npm install convex
+npm run dev
+->questions will be asked 
+select the existing project  which u have created
 
 ## Learn More
 
