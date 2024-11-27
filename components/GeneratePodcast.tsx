@@ -69,7 +69,7 @@ const useGeneratePodcast = ({
 
   return { isGenerating, generatePodcast }
 }
-
+// useAction(api.openai.generateAudioAction).
 const GeneratePodcast = (props: GeneratePodcastProps) => {
   const { isGenerating, generatePodcast } = useGeneratePodcast(props);
 

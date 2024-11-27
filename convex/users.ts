@@ -49,7 +49,7 @@ export const getTopUserByPodcastCount = query({
     return userData.sort((a, b) => b.totalPodcasts - a.totalPodcasts);
   },
 });
-
+//code for inserting user data into the user table in convex
 export const createUser = internalMutation({
   args: {
     clerkId: v.string(),
